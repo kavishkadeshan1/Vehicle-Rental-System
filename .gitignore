@@ -1,0 +1,13 @@
+# Database configuration
+config.php
+
+# Uploaded files
+uploads/*
+!uploads/.gitkeep
+!uploads/profiles/
+uploads/profiles/*
+!uploads/profiles/.gitkeep
+
+# OS generated files
+.DS_Store
+Thumbs.db
