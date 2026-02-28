@@ -6,7 +6,6 @@ The **Premium Vehicle Rental System** is a comprehensive web-based platform desi
 ---
 
 ## 📸 Screenshots
-*(To add screenshots here, take screenshots of your website pages, save them in the `assets/images/screenshots/` folder, and replace my placeholders with your actual images!)*
 
 ### 1. Landing / Customer Home
 ![Customer Home](assets/images/screenshots/home.jpg)
